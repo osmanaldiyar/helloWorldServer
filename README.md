@@ -5,7 +5,7 @@ Before you begin you should have installed PostgreSql on your computer.
 
 Instructions
 
-1.First download serverside of this project. To download server-side of this project use:
+1.First create folder "domashneezadanie" and download serverside of this project inside that folder. To download server-side of this project use:
 git clone https://github.com/osmanaldiyar/helloWorldServer.git
 2. Go to PostgreSql and create "homework" database and execute this query:
 
